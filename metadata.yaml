@@ -1,0 +1,60 @@
+_repo: The-writings-of-Origen-Vol-1-of-2_70561
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Africanus, Sextus Julius
+    aliases:
+    - Africanus, Julius
+    - Julius Africanus
+    - Africano, Giulio
+    gutenberg_agent_id: '55795'
+    url: http://www.gutenberg.org/2009/agents/55795
+    wikipedia: https://en.wikipedia.org/wiki/Sextus_Julius_Africanus
+  translator:
+    agent_name: Crombie, Frederick
+    birthdate: 1827
+    deathdate: 1889
+    gutenberg_agent_id: '55798'
+    url: http://www.gutenberg.org/2009/agents/55798
+creator:
+  author:
+    agent_name: Origen
+    aliases:
+    - Adamantius
+    - Oregenes Adamantius
+    - Origenes Adamantius
+    - Origenis
+    - Orygenes
+    birthdate: 184
+    deathdate: 253
+    gutenberg_agent_id: '53332'
+    url: http://www.gutenberg.org/2009/agents/53332
+    wikipedia: https://en.wikipedia.org/wiki/Origen
+description: ''
+gutenberg_issued: '2023-04-15'
+identifiers:
+  gutenberg: '70561'
+language: en
+pgterms:marc904: https://archive.org/details/writingsoforigen01orig_0
+pgterms:marc905: 20200705074103origen
+pgterms:marc906: '1869'
+pgterms:marc907: GB
+production_note: Wouter Franssen, David King, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net. (This file was produced from images generously made
+  available by The Internet Archive.)
+publication_note: '  $aUnited Kingdom :$bT. & T. Clark, $c1869.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Theology -- History -- Early Church, ca. 30-600'
+- !lcsh 'Celsus (Platonic philosopher), active 180'
+- !lcsh 'Apologetics -- History -- Early church, ca. 30-600'
+- !lcc 'BR'
+- GITenberg
+tableOfContents: Introductory notice -- Prologue of Rufinus to the De principiis --
+  De principiis -- A letter to Origen from Africanus about the history of Susanna
+  -- A letter from Origen to Africanus -- A letter from Origen to Gregory -- Origen
+  against Celsus, book 1.
+title: The writings of Origen, Vol. 1 (of 2)
+url: http://www.gutenberg.org/ebooks/70561
